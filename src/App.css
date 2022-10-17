@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.allnumbers {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.sixnumbers {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+input {
+  width: 50px;
+  height: 50px;
+  text-align: center;
+}
+
+button {
+  margin-top: 30px;
+}
